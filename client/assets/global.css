@@ -1,0 +1,40 @@
+:root {
+  --element-background: #7197f0;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background-color: #1d3263;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background-color: var(--element-background);
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+div {
+  background-color: var(--element-background);
+  color: white;
+  padding: 20px;
+  border: 1px dashed white;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.display-none {
+  display: none;
+}
