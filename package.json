@@ -1,0 +1,12 @@
+{
+  "name": "web-push-notifications",
+  "version": "1.0.0",
+  "description": "A Testing Ground For testing Push Notifications Using web-push ",
+  "license": "ISC",
+  "author": "Alireza Sedighi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
