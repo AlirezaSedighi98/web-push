@@ -1,5 +1,4 @@
-const PUBLIC_KEY =
-  "BGsYvVVMDJioU5-XnRtM-qfC6hRQQlL1npI4c6Dv05MVzFY9cOGDJgf3TepaeaWQaGpR9DHk7LuQlhXpJqlH5TE";
+const PUBLIC_KEY = "";
 
 export function urlBase64ToUint8Array(base64String) {
   const padding = "=".repeat((4 - (base64String.length % 4)) % 4);
