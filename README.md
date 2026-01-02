@@ -26,9 +26,9 @@ Backend
 
 Project Structure
 
-root/              # Backend API for push notifications
-├── client/        # Frontend application
-├── README.md
+	root/              # Backend API for push notifications
+	├── client/        # Frontend application
+	├── README.md
 
 
 ⸻
